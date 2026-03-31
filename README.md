@@ -1,4 +1,4 @@
-# Mini User & Project Management API
+# Mini User & Project Management API // comment
 
 Async FastAPI REST API for managing users and projects with a one-to-many relationship.
 Built with **FastAPI**, **SQLModel**, **AsyncPG**, and **PostgreSQL**.
